@@ -3,6 +3,6 @@ package com.rudydelorenzo.team25_lab4;
 public abstract class Shape {
     private int x;
     private int y;
+    private String color = "Black";
 
-    private String color = "cyan";
 }
