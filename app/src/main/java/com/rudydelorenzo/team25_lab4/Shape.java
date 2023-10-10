@@ -4,5 +4,8 @@ public abstract class Shape {
     private int x;
     private int y;
 
-    String color = "BLUE";
+    String color1 = "BLUE";
+
+    String color = "$PUT_YOUR_CHOICE_OF_COLOR";
+
 }
